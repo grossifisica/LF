@@ -1,0 +1,6 @@
+{
+  "name": "Campo Elétrico Didático",
+  "description": "Aplicativo didático interativo para simulação e visualização de vetores de campo elétrico e linhas de força de até 4 cargas elétricas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
