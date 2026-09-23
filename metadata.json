@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Linhas de Força do Campo Elétrico",
+  "description": "Aplicativo didático interativo para simbolizar e explorar as linhas de força do campo elétrico, vetores campo elétrico, princípio da superposição e cargas pontuais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
